@@ -3,7 +3,6 @@
 <br>
 <p>My app consists of three modules like admin,Technician and user.And six operations like add,update,delete,sort,search and list.Sort and search are common to all the modules where
 as add,update and delete can be done only by admin and technician.Admin can add,update,delete both users and technicians where as technicians can do these 3 operations only on users.</p>
-<br>
 ![login](https://user-images.githubusercontent.com/65772472/125202804-edf08e80-e292-11eb-9a93-753995252769.PNG)
 ![welcomePage](https://user-images.githubusercontent.com/65772472/125202811-f8128d00-e292-11eb-9755-080b8fc2fb2e.PNG)
 admin's login
